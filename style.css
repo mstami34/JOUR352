@@ -1,24 +1,25 @@
 body {
-background-color:#ff8200;
-font-family: 'Roboto', sans-serif;
+	  background-color:#ffffff;
 }
 
-h1 {
-font-family: 'Protest Strike', sans-serif;
-color: orange;
-border-style: ridge;
-
+.yammering {
+   font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding: 20px;
 }
+h1{
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;}
 
-.widerbox {
-  background-color: #999999;
-  width: 100%;
-  padding: 0px;
+.YellowBox{
+	background-color: #e9cb20;
+	padding: 20px;
+	
 }
+.SideBar{width: 400px; float: right; margin-top: 20px }
+table{border: 0px; cellspacing: 0px; padding: 5px;
+color: #ffffff; background-color: #666666; }
 
-.headbox {
-  background-color: black;
-  width: 60%;
-padding: 50px 200px;
-margin: 20px 0 150px 50px;
- }
+
