@@ -1,0 +1,24 @@
+body {
+background-color:#ff8200;
+font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+font-family: 'Protest Strike', sans-serif;
+color: orange;
+border-style: ridge;
+
+}
+
+.widerbox {
+  background-color: #999999;
+  width: 100%;
+  padding: 0px;
+}
+
+.headbox {
+  background-color: black;
+  width: 60%;
+padding: 50px 200px;
+margin: 20px 0 150px 50px;
+ }

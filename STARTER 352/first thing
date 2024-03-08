@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Baltimore Orioles Fan Site</title>
+  <meta name="description" content="This is the description that search engines will display. Aim for 145-155 characters.">
+  <meta name="author" content="Insert the content author or owner name here">
+
+  <!-- Link to your JS file -->
+  <script src="scripts/script.js"></script>
+
+  <!-- Link to your CSS file -->
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+</body>
+<h1>Welcome to the world's premeir Baltimore Orioles fan site</h1>
+<p>This team is about to win the world series. Everything is looking up for the franchise - young talent, a great environment, and a new owner.</p>
+<p><a href="https://www.mlb.com/orioles"> Click here</a>to go to the Orioles' website</p>
+<!--this is where my page content starts -->
+
+</html>
