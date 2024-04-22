@@ -1,0 +1,14 @@
+body {
+  background-color:#ffffff;
+}
+h1{
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.infogram-embed {
+
+width: 500px; height: 500px
+}
